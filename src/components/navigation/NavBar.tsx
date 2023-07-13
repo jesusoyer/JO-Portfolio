@@ -8,7 +8,7 @@ const NavBar: React.FC = () => {
 
 
   return (
-    <div>
+    <div className="bg-gray-50">
       <nav className={logo}>
 <div className={containerCss}>
   <div className={navbarFlexItems}>    <div className={navbarFlexCenter}>
@@ -25,7 +25,7 @@ const NavBar: React.FC = () => {
   </div>
  </div>
  </nav>
-    </div>
+ </div>
 
 
 
