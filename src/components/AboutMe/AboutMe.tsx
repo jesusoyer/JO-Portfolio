@@ -12,14 +12,14 @@ const { skills } = aboutMeCss;
             <p className="text-center w-8/12 mx-auto text-gray-500">
             As a Frontend Web Developer, I specialize in building the frontend of websites and web applications. You can see projects I have worked on in the projects section.I am actively seeking new job opportunities that challenge me to expand my skills and knowledge. If you have an opportunity that matches my experience and interests, please feel free to contact me.
             </p>
-            <div className="flex justify-between mx-72 mt-4">
+            <div className="flex justify-between mx-80 mt-4">
               <div className={skills}>HTML</div>
               <div className={skills}>CSS</div>
               <div className={skills}>JavaScript</div>
               <div className={skills}>REACT.js</div>
               <div className={skills}>TypeScript.js</div>
             </div>
-            <div className="flex justify-between mx-72 ">
+            <div className="flex justify-between mx-80 ">
               <div className={skills}>Node.js</div>
               <div className={skills}>Express.js</div>
               <div className={skills}>SQL</div>
